@@ -30,7 +30,7 @@
 
 ###
 
-<p align="left">I'm from Philippines, Metro Manila.<br><br>- 🔭 Bachelor of Science Computer Engineering<br>- 📚 I'm currently learning Programming Language</p>
+<p align="left">I'm from Philippines, Metro Manila.<br><br>- 🔭 Bachelor of Science in Computer Engineering<br>- 📚 I'm currently learning Programming Language</p>
 
 ###
 
